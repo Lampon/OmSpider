@@ -3,6 +3,8 @@
 // @author lampon
 // @description 推送
 // @version 1.0.0
+// @downloadURL https://github.com/Lampon/OmSpider/raw/refs/heads/main/js/push.js
+
 /**
  * OmniBox 网盘爬虫脚本
  *

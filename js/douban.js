@@ -2,8 +2,8 @@
 // @indexs 1
 // @author lampon
 // @description 豆瓣推荐爬虫脚本
-// @version 1.0.0
-// @downloadURL https://github.com/lampon/douban_recommend/releases/download/v1.0.0/douban_recommend.js
+// @version 1.0.1
+// @downloadURL https://github.com/Lampon/OmSpider/raw/refs/heads/main/js/douban.js
 
 const OmniBox = require("omnibox_sdk");
 
@@ -378,6 +378,7 @@ async function home(params, context) {
           value: [
             { name: "全部", value: "" },
             { name: "2020年代", value: "2020年代" },
+            { name: "2026", value: "2026" },
             { name: "2025", value: "2025" },
             { name: "2024", value: "2024" },
             { name: "2023", value: "2023" },
