@@ -1,5 +1,5 @@
 // @name 盘搜脚本
-// @downloadURL https://github.com/Lampon/OmSpider/raw/refs/heads/main/js/pansou.js
+// @downloadURL https://raw.githubusercontent.com/Lampon/OmSpider/refs/heads/main/js/pansou.js
 /**
  * OmniBox 网盘爬虫脚本
  *

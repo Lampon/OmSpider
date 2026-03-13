@@ -1,5 +1,5 @@
 // @name 采集站爬虫
-// @downloadURL https://github.com/Lampon/OmSpider/raw/refs/heads/main/js/site.js
+// @downloadURL https://raw.githubusercontent.com/Lampon/OmSpider/refs/heads/main/js/site.js
 
 /**
  * OmniBox 采集站直接爬虫脚本

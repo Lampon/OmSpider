@@ -3,7 +3,7 @@
 // @author lampon
 // @description 豆瓣推荐爬虫脚本
 // @version 1.0.1
-// @downloadURL https://github.com/Lampon/OmSpider/raw/refs/heads/main/js/douban.js
+// @downloadURL https://raw.githubusercontent.com/Lampon/OmSpider/refs/heads/main/js/douban.js
 
 const OmniBox = require("omnibox_sdk");
 
